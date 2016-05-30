@@ -6,11 +6,15 @@
 }
 
 .land {
-    fill: #222;
+    fill: green;
 }
 
 .boundary {
     fill: none;
-    stroke: #fff;
+    stroke: #000;
     stroke-width: .5px;
+}
+
+.chart {
+    background: lightblue;
 }
