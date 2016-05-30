@@ -1,0 +1,36 @@
+{
+  "name": "fcc-map-globe-data",
+  "version": "1.0.0",
+  "description": "FCC use D3 to create map of data across globe",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "postinstall": "bower cache clear && bower install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratracegrad/fcc-map-globe-data.git"
+  },
+  "keywords": [
+    "free",
+    "code",
+    "camp",
+    "map",
+    "data",
+    "across",
+    "globe",
+    "jennifer",
+    "bland"
+  ],
+  "author": "Jennifer Bland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ratracegrad/fcc-map-globe-data/issues"
+  },
+  "homepage": "https://github.com/ratracegrad/fcc-map-globe-data#readme",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "express": "^4.13.4"
+  }
+}
